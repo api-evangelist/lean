@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Theorem Prover
-  - Formal Verification
   - Dependent Types
+  - Formal Verification
   - Programming Language
+  - Theorem Prover
 url: https://raw.githubusercontent.com/api-evangelist/lean/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
       of mathematics and software.
     humanURL: https://lean-lang.org/
     tags:
-      - Theorem Prover
       - Formal Verification
+      - Theorem Prover
     properties:
       - type: Documentation
         url: https://lean-lang.org/documentation/
