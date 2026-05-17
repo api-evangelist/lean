@@ -34,7 +34,7 @@ common:
     url: https://lean-lang.org/
   - type: Documentation
     url: https://lean-lang.org/documentation/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/leanprover/lean4
 maintainers:
   - FN: Kin Lane
