@@ -6,7 +6,7 @@ description: >-
   software. It supports interactive proof development and is used by
   mathematicians and computer scientists.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Dependent Types
   - Formal Verification
